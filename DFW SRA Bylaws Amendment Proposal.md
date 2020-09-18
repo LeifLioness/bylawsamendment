@@ -1,8 +1,8 @@
-Article 3 (Leadership), Section 6 (Chairperson)
+Article 3 (Leadership), Section 6 (Chairpersons)
 ======
 
-The Chairpersons (henceforth referred to as Chair) shall be the organizer of their retrospective committee.
+Each committee is required to elect a Chair, and may optionally elect a Co-Chair or Co-Chairs, who shall be defined in the committee's bylaws. The Chair and optionally Co-Chair(s) shall organize and coordinate their respective committees. Chairs and Co-Chairs shall also represent their respective committees within the CCC, however each committee shall have only one (1) vote in any votes that are held by the CCC. Chairs and Co-Chairs shall discuss how their committee's vote will fall prior to the CCC vote being held, and how the decision is made shall be defined by each committee's bylaws.
 
-They shall be elected by approval vote of that committee's members. with the candidate who
-receives the most approvals obtaining the position for a term of six months. Each Committee is to have a single Chair, excluding the On-Boarding Committee that is always to be Chaired by the Secretary. The Chair shall serve as the representative for the their committee within the
-CCC, as well as to help organize and coordinate their own committee.
+Each elected Chair or Co-Chair shall be elected by approval vote of that committee's members, with the candidate who receives the most approvals holding the Chair or Co-Chair position for a period of six (6) months. This excludes the Onboarding Committee, who's Chairperson shall always be the elected Secretary of the Chapter.
+
+The Chair, and optionally Co-Chair(s), shall organize and coordinate their respective committees as defined by each committee's bylaws.
